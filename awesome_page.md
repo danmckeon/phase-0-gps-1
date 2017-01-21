@@ -1,1 +1,1 @@
-Different change
+Change that work for both
